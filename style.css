@@ -1,0 +1,105 @@
+.header{
+    background-color: #121212;
+    
+}
+.haider{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+}
+.titanum{
+    background-image: url('./iphone\ titanum.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-position: center;
+    height: 550px;
+    
+    
+    
+}
+.khan{
+    background-image: url('./iphone\ 155.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 450px;
+    margin-top: 20px;
+}
+.vision{
+    background-image: url('./vision\ pro.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 450px;
+    margin-top: 20px;
+}
+.pro{
+    padding-top: 320px;
+}
+ .watch{
+    background-image:url('./watch.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-position: center;
+    
+    height: 500px;
+    
+}
+.macbook{
+    background-image:url('./macbook\ pro.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center;    
+    height: 500px;
+}
+.ipad{
+    background-image:url('./ipads.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 98%;
+    background-position: center;
+    height: 500px;    
+}
+.airpods{
+    background-image:url('./airpods.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 98%;
+    background-position: center;
+    height: 490px;    
+}
+.cards{
+    background-image:url('./card.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 98%;
+    background-position: center;
+    height: 500px;    
+}
+.trade{
+    background-image:url('./trade.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 98%;
+    background-position: center;
+    height: 500px;    
+}
+img{
+    height: 700px;
+    
+}
+.paragraph{
+    background-color: #f4f4f4;
+    font-size: small;
+
+}
+footer{
+    
+    background-color: #f4f4f4;
+    
+}
+.endd{
+    font-size: small;
+}
+ul{
+    list-style-type: none;
+}
+h6{
+    font-size: small;
+}
